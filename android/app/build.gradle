@@ -230,7 +230,8 @@ project.ext.vectoricons = [
         'EvilIcons.ttf',
         'AntDesign.ttf',
         'MaterialCommunityIcons.ttf',
-        'Feather.ttf' 
+        'Feather.ttf',
+        'SimpleLineIcons.ttf' 
     ] // Name of the font files you want to copy
 ]
 
