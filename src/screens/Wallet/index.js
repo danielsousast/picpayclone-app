@@ -57,7 +57,7 @@ const Wallet = () => {
                     <BalanceContainer>
                         <Balance>R$ {visibleBalance? '0,00':'- - -'}</Balance>
                         <Touch onPress={handleToogleBalance}>
-                            <Icon name="eye" size={30} color="#fff" />
+                            <Icon name="eye" size={30} color="#fff"/>
                         </Touch>
                     </BalanceContainer>
 
